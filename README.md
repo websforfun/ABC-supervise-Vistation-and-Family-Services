@@ -4,7 +4,7 @@
 		<title>ABC supervise Vistation and Family Services </title>
 		<style type="text/css">
 	body{
-	background-color:black;
+	background-color:white;
 			background-image:url(bg.jpg);
 	      }
 	  h2{color:yellow;}    
