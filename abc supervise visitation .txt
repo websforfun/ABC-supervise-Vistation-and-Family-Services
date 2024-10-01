@@ -35,13 +35,12 @@
 	  <p>provides supervise visitation for all families including phone transfers>
 	  </ul>
 	  </li>
-	  <ul>
-	  <li>
 	  <h3>other service are provided, contact the number below for more information:</h3>
 	  <h3>Our biggest priority is holding a safe  image for all families as well as our company, we want the best for everyone involved with us.</h3>
 	  </ul>
 	  </li>
-	  <img src="Houston-Studio-Family-Portrait+(1).jpg width="105" height="75">
+	  <h3><img src="Houston-Studio-Family-Portrait+(1).jpg" width="105" height="75"></h3>
+	  
 	  <p> contact information</P>
 	  <p>📞 Phone:<a href ="253-815-6666">253-815-6666</a></p>
 	  <p> Po box:<a href ="1236 renton 98057">1236 renton 98057</a></p>
