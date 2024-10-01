@@ -27,7 +27,7 @@
       </style>
 	  
 	  
-	  <body bgcolor= "black" text="white" background="">
+	  <body bgcolor= "white" text="white" background="">
 	  <h3>ABC Supervise vistation and Family Services</h3>
 	  </head>
 	  <ul>
